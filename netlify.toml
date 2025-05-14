@@ -1,1 +1,6 @@
-{"note":"[build]\n  publish = \"public\"\n  command = \"hugo\"\n\n[context.production.environment]\n  HUGO_VERSION = \"0.125.0\"\n","textColorIndex":0,"bgColorIndex":0}
+[build]
+  publish = "public"
+  command = "hugo"
+
+[context.production.environment]
+  HUGO_VERSION = "0.125.0"
