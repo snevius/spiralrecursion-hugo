@@ -1,0 +1,4 @@
+baseURL = "https://spiralrecursian.com/"
+languageCode = "en-us"
+title = "Spiral Recursian"
+theme = "ananke"
